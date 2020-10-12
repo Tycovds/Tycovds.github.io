@@ -1,0 +1,39 @@
+@import './variables.scss';
+
+.contact {
+    @extend .section;
+    padding: 3em;
+
+    h2 {
+        @extend .topic;
+    }
+
+    h4, p {
+        color: $txt;
+    }
+    h4 {
+        margin-top: 2em;
+        font-size: clamp(16px, 3vmin, 24px);
+    }
+    .contact-box {
+        @extend .yellow-shadow;
+        background-color: $accent;
+        margin: 2em 0;
+        padding: 1em 2em;
+        width: fit-content;
+        .type {
+            font-weight: 200;
+        }
+        .contact-content {
+            font-size: clamp(14px, 3vmin, 18px);
+        }
+        
+    }
+
+}
+@media screen and (max-width: $phone) {
+    .contact {
+     padding: calc(1em + 51px) 2em !important;
+  
+ }
+ }

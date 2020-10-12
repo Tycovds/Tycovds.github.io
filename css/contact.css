@@ -1,0 +1,33 @@
+.section, .contact {
+  min-height: calc(100vh - 51px);
+  background-color: #1A1A2E;
+  width: 100%;
+  position: relative;
+}
+
+.yellow-shadow, .contact .contact-box {
+  -webkit-box-shadow: 10px 10px 0 0 #F2A365;
+          box-shadow: 10px 10px 0 0 #F2A365;
+}
+
+.topic, .contact h2 {
+  font-size: clamp(16px, 7vmin, 28px);
+  color: #F2A365;
+  margin-bottom: 1em;
+}
+
+.contact {
+  padding: 3em;
+}
+
+.contact h4, .contact p {
+  color: #EEEEEE;
+}
+
+.contact .contact-box {
+  background-color: #30475E;
+  padding: 2em;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}

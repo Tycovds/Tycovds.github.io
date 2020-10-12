@@ -1,0 +1,29 @@
+@import './variables.scss';
+@import './nav.scss';
+@import './hero.scss';
+@import './about.scss';
+@import './projects.scss';
+@import './contact.scss';
+ 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    font-family: $mont;
+}
+html {
+    scroll-behavior: smooth;
+}
+
+#wrapper {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+    background-color:$bg;
+    z-index: -1;
+}                 
+    

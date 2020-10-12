@@ -1,0 +1,17 @@
+.section {
+  min-height: calc(100vh - 51px);
+  background-color: #1A1A2E;
+  width: 100%;
+  position: relative;
+}
+
+.yellow-shadow {
+  -webkit-box-shadow: 10px 10px 0 0 #F2A365;
+          box-shadow: 10px 10px 0 0 #F2A365;
+}
+
+.topic {
+  font-size: clamp(16px, 7vmin, 28px);
+  color: #F2A365;
+  margin-bottom: 1em;
+}

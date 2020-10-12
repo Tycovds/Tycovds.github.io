@@ -1,0 +1,29 @@
+$bg: #1A1A2E;
+$txt: #EEEEEE;
+$main: #F2A365;
+$accent:#30475E;
+
+$sand:'Quicksand', sans-serif;
+$mont: 'Montserrat', sans-serif;
+
+$phone: 700px;
+
+.section {
+    min-height: calc(100vh - 51px);
+    background-color: $bg;
+    width: 100%;
+    position: relative;
+
+}
+
+.yellow-shadow {
+    box-shadow: 10px 10px 0 0 $main;
+
+}
+
+
+    .topic {
+        font-size: clamp(16px, 7vmin, 28px);
+        color: $main;
+        margin-bottom: 1em;
+    }

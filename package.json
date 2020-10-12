@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build ./index.html",
+    "dev": "parcel ./index.html --host 192.168.1.38"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shufflejs": "^5.2.3"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.27.0"
+  }
+}

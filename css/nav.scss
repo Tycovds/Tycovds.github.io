@@ -1,0 +1,40 @@
+@import './variables.scss';
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:  0 1rem;
+    background-color: $accent;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    a {
+        text-decoration: none;
+
+    }
+
+    #logo {
+        a {
+            display: inline-block;
+            color: $main;
+            font-size: 1.3rem;
+            font-weight: 700;
+        }
+    }
+    .links {
+        list-style-type: none;
+        display: flex;
+        .link {
+            a {
+                display: inline-block;
+                color: $txt;
+                padding: 1rem;
+
+            }
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+}

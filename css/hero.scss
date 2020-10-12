@@ -1,0 +1,80 @@
+@import './variables.scss';
+.hero {
+    position: relative;
+    min-height: calc(100vh - 55px);
+    width: 100%;
+   display: grid; 
+   place-items: center;
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        position: relative;
+        height: 70vh;
+     
+        
+        .name-main {
+            font-size: clamp(32px,  8vmin, 120px);
+            font-family: $sand;
+            color: $main;
+        }
+        
+        .sub-title {
+            @extend .yellow-shadow;
+            padding: 1em 2em;
+            color: $txt;
+            font-weight: 400;
+            font-size: clamp(21px,  4vmin, 32px);
+            width: clamp(300px, 90vw, 700px);
+            background-color: $accent;
+            transition:  300ms cubic-bezier(0.68, -0.6, 0.32, 1.6);
+            transition-property: transform box-shadow;
+            &:hover {
+                transform: scale(1.05);
+                box-shadow: 15px 15px 0 0 $main;
+            }
+        }
+    }
+    svg {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, 0);
+        bottom: 2vh;
+        animation: move 1500ms ease alternate-reverse infinite ;
+    
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}
+
+
+@keyframes move{
+    to {
+       transform: translate(-50%, -10px);;
+    }
+}
+
+@media screen and (max-width: $phone) {
+    .hero {
+        
+        .container {
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%, 0);
+            top: 20vh;
+            height: 50vh;
+            
+            .name-main {
+                font-size: clamp(32px,  9vmin, 120px);
+            }
+            
+            .sub-title {
+                padding: .5em 1em;
+           
+            
+             }
+         }
+     }
+}
