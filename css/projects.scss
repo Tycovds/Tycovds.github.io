@@ -23,24 +23,17 @@
 
     .project-container {
         margin: 2em 0;
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
+        // display: flex;
+        // justify-content: center;
+        // flex-wrap: wrap;
         .project-card {
             @extend .yellow-shadow;
-            position: relative;
             margin: 1em;
             padding: 1em;
             background-color: $accent;
             width: clamp(200px, 25vw, 600px);
-
-            // transition: 300ms cubic-bezier(0.68, -0.6, 0.32, 1.6) ;
-            // transition-property:  transform box-shadow ;
             cursor: pointer;
-            // &:hover {
-            //     box-shadow: 15px 15px 0 0 $main;
-            //     transform: translate(-10px, -10px);
-            // }
+        
             a {
                 text-decoration: none;
             }
