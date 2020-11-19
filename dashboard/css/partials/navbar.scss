@@ -1,0 +1,37 @@
+@import "../variables.scss";
+nav {
+    width: 100%;
+    height: $navbar-height;
+    grid-column: 1 / 6;
+    background-color: $el-color;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h2 {
+        color: #fff;
+        padding: 0 1rem;
+    }
+    #open-menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: $phone) {
+    nav {
+        #open-menu {
+            position: relative;
+            display: flex;
+            height: calc(#{$navbar-height} - 20px);
+            width: $navbar-height;
+            flex-direction: column;
+            justify-content: space-around;
+            align-items: center;
+            .line {
+                border-radius: 3px;
+                height: 3px;
+                width: 55%;
+                background-color: #fff;
+            }
+        }
+    }
+}

@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/main.scss">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"
+        integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw=="
+        crossorigin="anonymous"></script>
+    <script defer src="./js/script.js"></script>
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <div class="side-menu">
+        <div class="close-menu">
+            <div class="line" id="line1"></div>
+            <div class="line" id="line2"></div>
+        </div>
+        <div class="wrapper">
+            <p class="list-title">Main</p>
+            <ul class="list">
+                <li class="menu-item">Dashboard</li>
+                <li class="menu-item">Orders</li>
+                <li class="menu-item">Analytics</li>
+                <li class="menu-item">Categories</li>
+                <li class="menu-item">Collections</li>
+                <li class="menu-item">Products</li>
+                <li class="menu-item">Discounts</li>
+                <li class="menu-item">Employees</li>
+                <li class="menu-item">Customers</li>
+            </ul>
+            <p class="list-title">Sales channel</p>
+            <ul class="list">
+                <li class="menu-item">Online Store</li>
+                <li class="menu-item">Marketing</li>
+            </ul>
+        </div>
+    </div>
+    <div class="main-panel">
+        <nav class="grid-item">
+            <h2>Dashboard</h2>
+            <div id="open-menu">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+        </nav>
+        <div class="quarter-grid">
+            <div class="quarter grid-item">
+                <p class="card-title">Customers</p>
+                <p class="value">5298</p>
+                <p class="difference green">+3.72%</p>
+            </div>
+            <div class="quarter grid-item">
+                <p class="card-title">Orders</p>
+                <p class="value">5298</p>
+                <p class="difference red">-1.12%</p>
+            </div>
+            <div class="quarter grid-item">
+                <p class="card-title">Growth</p>
+                <p class="value">+25.98%</p>
+                <p class="difference red">-4.72%</p>
+            </div>
+            <div class="quarter grid-item">
+                <p class="card-title">Earnings</p>
+                <p class="value">$5928</p>
+                <p class="difference green">-3.72%</p>
+            </div>
+        </div>
+        <div class="half-chart grid-item">
+            <p class="card-title">Revenue</p>
+            <canvas id="myChart"></canvas>
+        </div>
+        <div class="product-list grid-item">
+            <p class="card-title">Top selling products</p>
+            <div class="table-wrapper">
+                <table>
+                    <tr>
+                        <th>Product</th>
+                        <th>Date</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                    <tr>
+                        <td>Iphone</td>
+                        <td>12-3-2011</td>
+                        <td>$700</td>
+                        <td>34</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="sales-pie grid-item">
+            <p class="card-title">Total Sales</p>
+            <canvas id="pieChart"></canvas>
+        </div>
+    </div>
+</body>
+
+</html>

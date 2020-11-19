@@ -1,0 +1,82 @@
+@import "../variables.scss";
+.side-menu {
+    width: $side-menu-width;
+    background-color: $el-color;
+    .wrapper {
+        padding: 1em;
+        .list-title,
+        .menu-item {
+            color: #fff;
+        }
+        .list-title {
+            opacity: 0.5;
+        }
+        .list {
+            list-style-type: none;
+            margin: 0.5em 0;
+            padding-left: 0.5em;
+            .menu-item {
+                text-decoration: none;
+                padding: 0.5em 0;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .close-menu {
+        display: none;
+    }
+}
+
+@media screen and (max-width: $phone) {
+    .open-menu {
+        transform: translateX(100%) !important;
+    }
+    .side-menu {
+        position: fixed;
+        left: -100%;
+        height: 100%;
+        width: 100vw;
+        transform: translateX(0);
+        transition: transform 400ms;
+        z-index: 2;
+        .wrapper {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            .list-title,
+            .menu-item {
+                font-size: 1.2rem;
+            }
+        }
+
+        .close-menu {
+            display: block;
+            position: absolute;
+            width: 35px;
+            height: 35px;
+            top: 10px;
+            right: 10px;
+            z-index: 5;
+
+            .line {
+                top: 50%;
+                left: 50%;
+                width: 100%;
+                border-radius: 3px;
+                height: 4px;
+                background-color: #fff;
+                position: absolute;
+                transform-origin: center;
+            }
+            #line1 {
+                transform: translateX(-50%) rotate(45deg);
+            }
+            #line2 {
+                transform: translateX(-50%) rotate(-45deg);
+            }
+        }
+    }
+}
