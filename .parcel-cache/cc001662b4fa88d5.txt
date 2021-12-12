@@ -1,4 +1,4 @@
-10627
+10648
 41E:\Code\Portfolios\Tycovds.github.io\dist132838059459349185 1
 87E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\streams.js132775616821098638 0
 95E:\Code\Portfolios\Tycovds.github.io\node_modules\slice-ansi\node_modules\color-convert\LICENSE132838050403186800 0
@@ -81,7 +81,7 @@
 62E:\Code\Portfolios\Tycovds.github.io\node_modules\array-unique132838050398461985 1
 77E:\Code\Portfolios\Tycovds.github.io\node_modules\simple-swizzle\node_modules132569377719509463 1
 76E:\Code\Portfolios\Tycovds.github.io\node_modules\static-extend\package.json132838050387144806 0
-41E:\Code\Portfolios\Tycovds.github.io\docs132838056623651498 1
+41E:\Code\Portfolios\Tycovds.github.io\docs132838065542449895 1
 100E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\css-text-orientation.js132775616813083517 0
 115E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2015\GetOwnPropertyKeys.js121436361000000000 0
 122E:\Code\Portfolios\Tycovds.github.io\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\selectors\guards.js121436361000000000 0
@@ -153,7 +153,7 @@
 77E:\Code\Portfolios\Tycovds.github.io\node_modules\string_decoder\node_modules132838050382266103 1
 86E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2018\thisBooleanValue.js121436361000000000 0
 105E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2015\ToUint32.js121436361000000000 0
-49E:\Code\Portfolios\Tycovds.github.io\package.json132838055134673153 0
+49E:\Code\Portfolios\Tycovds.github.io\package.json132838065475434811 0
 107E:\Code\Portfolios\Tycovds.github.io\node_modules\tar-stream\node_modules\readable-stream\errors-browser.js132838050504211857 0
 112E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2015\thisStringValue.js121436361000000000 0
 81E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2018\DayFromYear.js121436361000000000 0
@@ -2892,6 +2892,7 @@
 106E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json132838050445668189 0
 70E:\Code\Portfolios\Tycovds.github.io\node_modules\stable\stable.min.js131691408960000000 0
 88E:\Code\Portfolios\Tycovds.github.io\node_modules\postcss-discard-duplicates\LICENSE-MIT121436361000000000 0
+64E:\Code\Portfolios\Tycovds.github.io\docs\index.913f2c70.css.map132838065542439880 0
 71E:\Code\Portfolios\Tycovds.github.io\node_modules\node-forge\lib\tls.js132838050433409810 0
 112E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gfilteroutputstream.h132612604640000000 0
 104E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\5\IsCallable.js121436361000000000 0
@@ -3214,6 +3215,7 @@
 69E:\Code\Portfolios\Tycovds.github.io\node_modules\emphasize\readme.md132838050403454588 0
 103E:\Code\Portfolios\Tycovds.github.io\node_modules\snapdragon\node_modules\source-map\lib\source-node.js132838050420946106 0
 98E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\glib-2.0\gio\gmenu.h132612604640000000 0
+64E:\Code\Portfolios\Tycovds.github.io\docs\dashboard.96a6aa03.png132838065524159673 0
 99E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\orc-0.4\orc\orcmips.h132612604640000000 0
 96E:\Code\Portfolios\Tycovds.github.io\node_modules\snapdragon\node_modules\source-map\lib\util.js132838050421602222 0
 101E:\Code\Portfolios\Tycovds.github.io\node_modules\expand-brackets\node_modules\is-descriptor\index.js132838050400111885 0
@@ -3686,6 +3688,7 @@
 108E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango-matrix.h132612604640000000 0
 117E:\Code\Portfolios\Tycovds.github.io\node_modules\postcss-reduce-transforms\node_modules\postcss-value-parser\LICENSE121436361000000000 0
 80E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\clean\TypeSelector.js121436361000000000 0
+59E:\Code\Portfolios\Tycovds.github.io\docs\index.887a60aa.js132838065542399845 0
 90E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\libgsf-1\gsf132612604640000000 1
 106E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango-tabs.h132612604640000000 0
 107E:\Code\Portfolios\Tycovds.github.io\node_modules\sharp\vendor\8.10.6\include\pango-1.0\pango\pango-types.h132612604640000000 0
@@ -5498,7 +5501,7 @@
 70E:\Code\Portfolios\Tycovds.github.io\node_modules\object.pick\index.js132838050399192528 0
 69E:\Code\Portfolios\Tycovds.github.io\node_modules\object.pick\LICENSE132838050395921721 0
 105E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2018\ToString.js121436361000000000 0
-51E:\Code\Portfolios\Tycovds.github.io\docs\dashboard132775628031609470 1
+51E:\Code\Portfolios\Tycovds.github.io\docs\dashboard132838065542439880 1
 87E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\restructure\1-mergeAtrule.js121436361000000000 0
 94E:\Code\Portfolios\Tycovds.github.io\node_modules\object.getownpropertydescriptors\.travis.yml121436361000000000 0
 95E:\Code\Portfolios\Tycovds.github.io\node_modules\object.getownpropertydescriptors\CHANGELOG.md121436361000000000 0
@@ -5919,6 +5922,7 @@
 100E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2018\Day.js121436361000000000 0
 88E:\Code\Portfolios\Tycovds.github.io\node_modules\emphasize\node_modules\chalk\readme.md132838050405485498 0
 107E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2018\DaysInYear.js121436361000000000 0
+69E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.4ebd157d.js132838065542399845 0
 123E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2018\EnumerableOwnPropertyNames.js121436361000000000 0
 83E:\Code\Portfolios\Tycovds.github.io\node_modules\highlight.js\lib\languages\sas.js132838050447161540 0
 102E:\Code\Portfolios\Tycovds.github.io\node_modules\object.assign\node_modules\es-abstract\2018\floor.js121436361000000000 0
@@ -7489,6 +7493,7 @@
 46E:\Code\Portfolios\Tycovds.github.io\.cache\40132775612163298340 1
 88E:\Code\Portfolios\Tycovds.github.io\node_modules\highlight.js\lib\languages\roboconf.js132838050447021288 0
 84E:\Code\Portfolios\Tycovds.github.io\node_modules\highlight.js\lib\languages\ruby.js132838050447071327 0
+63E:\Code\Portfolios\Tycovds.github.io\docs\index.211b0853.js.map132838065542439880 0
 84E:\Code\Portfolios\Tycovds.github.io\node_modules\highlight.js\lib\languages\rust.js132838050447111366 0
 85E:\Code\Portfolios\Tycovds.github.io\node_modules\highlight.js\lib\languages\scala.js132838050447171545 0
 81E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\regions\RS.js132775616820518178 0
@@ -7621,6 +7626,7 @@
 67E:\Code\Portfolios\Tycovds.github.io\node_modules\get-value\LICENSE132838050392700056 0
 69E:\Code\Portfolios\Tycovds.github.io\node_modules\gauge\base-theme.js132838050503714049 0
 68E:\Code\Portfolios\Tycovds.github.io\node_modules\gauge\CHANGELOG.md132838050504331963 0
+59E:\Code\Portfolios\Tycovds.github.io\docs\index.211b0853.js132838065542399845 0
 100E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\utils\node_modules\@parcel\hash\browser.js132838050397731516 0
 64E:\Code\Portfolios\Tycovds.github.io\node_modules\gauge\error.js132838050503971694 0
 111E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\node_modules\css-tree\lib\definition-syntax\tokenizer.js121436361000000000 0
@@ -8184,6 +8190,7 @@
 105E:\Code\Portfolios\Tycovds.github.io\node_modules\class-utils\node_modules\is-accessor-descriptor\LICENSE132838050396732454 0
 92E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2017\OrdinarySetPrototypeOf.js121436361000000000 0
 92E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2017\RequireObjectCoercible.js121436361000000000 0
+72E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.e64b8977.css132838065542399845 0
 70E:\Code\Portfolios\Tycovds.github.io\node_modules\color-string\LICENSE121436361000000000 0
 73E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2017\Set.js121436361000000000 0
 88E:\Code\Portfolios\Tycovds.github.io\node_modules\es-abstract\2017\SpeciesConstructor.js121436361000000000 0
@@ -8609,6 +8616,7 @@
 79E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\Dimension.js121436361000000000 0
 76E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\Number.js121436361000000000 0
 75E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\property132569377458437937 1
+60E:\Code\Portfolios\Tycovds.github.io\docs\index.913f2c70.css132838065542399845 0
 89E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\property\background.js121436361000000000 0
 85E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\property\border.js121436361000000000 0
 86E:\Code\Portfolios\Tycovds.github.io\node_modules\csso\lib\replace\atrule\keyframes.js121436361000000000 0
@@ -9183,6 +9191,7 @@
 83E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\u2f.js132775616823948323 0
 98E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\unhandledrejection.js132775616823975788 0
 83E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\url.js132775616823995811 0
+75E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.4c2a566c.js.map132838065542439880 0
 90E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\use-strict.js132775616824005821 0
 96E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\user-select-none.js132775616824005821 0
 91E:\Code\Portfolios\Tycovds.github.io\node_modules\caniuse-lite\data\features\user-timing.js132775616824015837 0
@@ -10073,7 +10082,7 @@
 104E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\src\urlJoin.js132838050436042577 0
 109E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\lib\alternatives.js132838050403304451 0
 107E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\lib\collection.js132838050411537094 0
-52E:\Code\Portfolios\Tycovds.github.io\docs\index.html132775628890039365 0
+52E:\Code\Portfolios\Tycovds.github.io\docs\index.html132838065542399845 0
 107E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\lib\countLines.js132838050417514170 0
 105E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\lib\debounce.js132838050418209860 0
 117E:\Code\Portfolios\Tycovds.github.io\node_modules\@parcel\core\node_modules\@parcel\utils\lib\generateBuildMetrics.js132838050420986143 0
@@ -10398,17 +10407,29 @@
 57E:\Code\Portfolios\Tycovds.github.io\docs\app.d56c58f1.js132775628032984843 0
 61E:\Code\Portfolios\Tycovds.github.io\docs\app.d56c58f1.js.map132775628032974829 0
 60E:\Code\Portfolios\Tycovds.github.io\docs\arrow.635d13d7.svg132775628031549417 0
+60E:\Code\Portfolios\Tycovds.github.io\docs\arrow.69f770d1.svg132838065541230582 0
+57E:\Code\Portfolios\Tycovds.github.io\docs\bd.e1cbef9f.png132838065524159673 0
 64E:\Code\Portfolios\Tycovds.github.io\docs\coin-flip.3059eee2.png132775627825603020 0
 78E:\Code\Portfolios\Tycovds.github.io\docs\IMG-20191130-WA0014__01.261e8bcc.jpg132775625988978090 0
+78E:\Code\Portfolios\Tycovds.github.io\docs\IMG-20191130-WA0014__01.e96f0b06.jpg132838065536009495 0
+63E:\Code\Portfolios\Tycovds.github.io\docs\index.887a60aa.js.map132838065542439880 0
 63E:\Code\Portfolios\Tycovds.github.io\docs\main.a7057b44.css.map132775623615960559 0
 59E:\Code\Portfolios\Tycovds.github.io\docs\main.f26e8a16.css132775625988938055 0
 61E:\Code\Portfolios\Tycovds.github.io\docs\shuffle.288f3f78.js132775625988968081 0
 65E:\Code\Portfolios\Tycovds.github.io\docs\shuffle.288f3f78.js.map132775625989138235 0
-53E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe132775628031619483 1
+53E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe132838065542439880 1
+64E:\Code\Portfolios\Tycovds.github.io\docs\tictactoe.533d7f69.png132838065527130550 0
+64E:\Code\Portfolios\Tycovds.github.io\docs\vue-notes.15d7772c.png132838065536019508 0
 64E:\Code\Portfolios\Tycovds.github.io\docs\vue-notes.cbb3038f.png132775625988978090 0
+62E:\Code\Portfolios\Tycovds.github.io\docs\yahtzee.21b9c60e.png132838065527130550 0
 62E:\Code\Portfolios\Tycovds.github.io\docs\yahtzee.69bd0ee9.png132775628031659516 0
-64E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.html132775628031619483 0
-62E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.html132775628031609470 0
+71E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.4c2a566c.js132838065542399845 0
+76E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.e64b8977.css.map132838065542429875 0
+64E:\Code\Portfolios\Tycovds.github.io\docs\tic-tac-toe\index.html132838065542399845 0
+73E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.4ebd157d.js.map132838065542429875 0
+70E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.5dc5a861.css132838065542399845 0
+74E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.5dc5a861.css.map132838065542429875 0
+62E:\Code\Portfolios\Tycovds.github.io\docs\dashboard\index.html132838065542399845 0
 57E:\Code\Portfolios\Tycovds.github.io\dist\app.c3f9f951.js132775624439657995 0
 60E:\Code\Portfolios\Tycovds.github.io\dist\arrow.6b8cfb76.svg132838059459095250 0
 51E:\Code\Portfolios\Tycovds.github.io\dist\dashboard132838059459349185 1
